@@ -1,4 +1,4 @@
-- 👋 Hi, I’m EslamMohamedNasr
+- 👋 Hi, I’m Eslam Mohamed Nasr
 - 👀 I’m interested in BIM Development 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on any further projects
